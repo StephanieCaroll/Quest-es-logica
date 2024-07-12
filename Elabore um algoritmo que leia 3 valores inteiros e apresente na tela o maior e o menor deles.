@@ -1,0 +1,19 @@
+<script>
+    //Elabore um algoritmo que leia 3 valores inteiros e apresente na tela o maior e o menor deles.
+    var num1 = Number(prompt("Insira o primeiro numero inteiro:"));
+    var maior= num1;
+    var menor= num1;
+    var num2 = Number(prompt("Insira o segundo numero inteiro:"));
+    if (maior<num2){
+        maior=num2;
+    } if (num2 < menor){
+        menor=num2
+    }
+    var num3 = Number(prompt("Insira o terceiro numero inteiro:"));
+    if (maior<num3){
+        maior=num3;
+    } if (num3 < menor){
+        menor=num3
+    }
+    document.write("O maior número e o menor entre " + num1 + " , " + num2 + " e " + num3 + " e " + maior + " e o menor " + menor);
+</script>
