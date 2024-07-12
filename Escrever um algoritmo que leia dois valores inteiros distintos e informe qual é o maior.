@@ -1,0 +1,9 @@
+<script>
+    //Escrever um algoritmo que leia dois valores inteiros distintos e informe qual é o maior.
+    var num1 = Number(prompt("Insira um número inteiro:"));
+    var num2 = Number(prompt("Insira outro número inteiro:"));
+    if (num1>num2){
+        document.write("O maior número entre " + num1 + " e " + num2 + " é " + num1)
+    } else if (document.write("O maior número entre " + num1 + " e " + num2 + " é " + num2)){
+    }
+</script>
