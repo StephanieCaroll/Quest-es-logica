@@ -1,0 +1,17 @@
+<script>
+    /*Construa um algoritmo que calcule o peso ideal de uma pessoa. Dados de entrada: altura e sexo. Fórmulas para cálculo do peso:
+Peso ideal de homem = (72,7 x altura) - 58 
+Peso ideal da mulher = (62,1 x altura) - 44,7
+*/
+var altura = Number(prompt("Insira sua altura:"));
+var sexo = prompt("Insira seu sexo: (M/F)");
+var pesoIdealF = (62.1 * altura) - 44.7
+var pesoIdealM = (72.7 * altura) - 58
+if (sexo == "F"){
+    document.write("Seu gênero é feminino, seu peso ideal é " + pesoIdealF.toFixed(1));
+} else if (sexo == "M"){
+    document.write("Seu gênero é masculino, seu peso ideal é " + pesoIdealM.toFixed(1));
+} else {
+    (document.write("Seu gênero é invalido"));
+}
+</script>
