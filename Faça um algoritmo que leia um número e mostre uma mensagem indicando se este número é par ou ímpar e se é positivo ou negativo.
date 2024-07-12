@@ -1,0 +1,14 @@
+<script>
+    //Faça um algoritmo que leia um número e mostre uma mensagem indicando se este número é par ou ímpar e se é positivo ou negativo.
+    var num1 = Number(prompt("Insira um número:"));
+    if (num1 % 2 == 0) {
+        document.write("Seu número é par e ");
+    } else {
+        document.write("Seu número é impar e ");
+    }
+    if (num1 > 0) {
+        document.write("Positivo");
+    } else {
+        document.write("Negativo");
+    }
+</script>
