@@ -13,12 +13,12 @@ O projeto é uma compilação de problemas de lógica que cobrem uma variedade d
 ✅ **Dicas e Técnicas**: Estratégias para abordar problemas de forma eficiente.
 
 ## 📚 Questões:
-✅ ** 1) Construa um algoritmo que calcule o peso ideal de uma pessoa. Dados de entrada: altura e sexo. Fórmulas para cálculo do peso: Peso ideal de homem = (72,7 x altura) - 58 Peso ideal da mulher = (62,1 x altura) - 44,7
-✅ ** 2) Elabore um algoritmo que leia 3 valores inteiros e apresente na tela o maior deles.
-✅ ** 3) Elabore um algoritmo que leia 3 valores inteiros e apresente na tela o maior e o menor deles.
-✅ ** 4) Escrever um algoritmo que leia dois valores inteiros distintos e informe qual é o maior.
-✅ ** 5) Escrever um algoritmo que leia três notas obtidas por um aluno durante o semestre. Calcular a sua média (aritmética), informar sua menção Reprovado (media <= 5), Recuperação(media < 7) e Aprovado (media >= 7)
-✅ ** 6) Faça um algoritmo que leia um número e mostre uma mensagem indicando se este número é par ou ímpar e se é positivo ou negativo.
+✅ ** 1) Construa um algoritmo que calcule o peso ideal de uma pessoa. Dados de entrada: altura e sexo. Fórmulas para cálculo do peso: Peso ideal de homem = (72,7 x altura) - 58 Peso ideal da mulher = (62,1 x altura) - 44,7 <br>
+✅ ** 2) Elabore um algoritmo que leia 3 valores inteiros e apresente na tela o maior deles.  <br>
+✅ ** 3) Elabore um algoritmo que leia 3 valores inteiros e apresente na tela o maior e o menor deles.  <br>
+✅ ** 4) Escrever um algoritmo que leia dois valores inteiros distintos e informe qual é o maior. <br>
+✅ ** 5) Escrever um algoritmo que leia três notas obtidas por um aluno durante o semestre. Calcular a sua média (aritmética), informar sua menção Reprovado (media <= 5), Recuperação(media < 7) e Aprovado (media >= 7)  <br>
+✅ ** 6) Faça um algoritmo que leia um número e mostre uma mensagem indicando se este número é par ou ímpar e se é positivo ou negativo.  <br>
 
 ## 🚀 Objetivos do Projeto
 - **Praticar** lógica de programação por meio de exercícios desafiadores.
